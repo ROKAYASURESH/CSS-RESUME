@@ -4,12 +4,12 @@
 
 Simple Resume built in HTML CSS only!
 
-**Live Preview: [https://html-css-resume.surge.sh/](https://html-css-resume.surge.sh/)**
-YouTube Tutorial: [https://youtu.be/FHb9JobDs2o][yt-video]
+**Live Preview: [https://rokayasuresh.github.io/CSS-RESUME/](https://html-css-resume.surge.sh/)**
+YouTube Tutorial: [https://www.youtube.com/@SROnlineEducation][yt-video]
 
 ---
 
-### Made with ❤️ by [Shaif Arfan][arfan-ig]
+### Made with ❤️ by [Suresh Rokay][Rokaya-ig]
 
 Like my works and want to support me?
 
