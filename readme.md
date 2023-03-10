@@ -35,10 +35,10 @@ For support, join our [Community Group][wc-fb-group].
 
 Happy Coding! ✨🚀
 
-[wc-tw]: http://twitter.com/webcifar
-[wc-yt]: http://www.youtube.com/webcifarOfficial
-[arfan-ig]: https://www.instagram.com/shaifarfan08/
-[wc-projects]: https://github.com/ShaifArfan/wc-project-tutorials
-[wc-fb-group]: https://www.facebook.com/groups/webcifar
-[buymeacoffee]: https://www.buymeacoffee.com/shaifarfan08
-[yt-video]: https://youtu.be/FHb9JobDs2o
+[wc-tw]: 
+[wc-yt]:
+[arfan-ig]: 
+[wc-projects]: 
+[wc-fb-group]: 
+[buymeacoffee]: 
+[yt-video]: 
