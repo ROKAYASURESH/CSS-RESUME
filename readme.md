@@ -4,8 +4,8 @@
 
 Simple Resume built in HTML CSS only!
 
-**Live Preview: [https://rokayasuresh.github.io/CSS-RESUME/](https://html-css-resume.surge.sh/)**
-YouTube Tutorial: [https://www.youtube.com/@SROnlineEducation][yt-video]
+**Live Preview: [https://rokayasuresh.github.io/CSS-RESUME/](https://rokayasuresh.github.io/CSS-RESUME/)**
+YouTube Tutorial: [https://rokayasuresh.github.io/CSS-RESUME/][yt-video]
 
 ---
 
@@ -23,7 +23,7 @@ Like my works and want to support me?
 
 ### Q: How can i get started?
 
-You can get started by following the YouTube tutorial of this project. Here is the full tutorial video link: [https://youtu.be/FHb9JobDs2o][yt-video].
+You can get started by following the YouTube tutorial of this project. Here is the full tutorial video link: [https://www.youtube.com/watch?v=liu4cJ3X4Hw&t=9s][yt-video].
 
 ## Feedback
 
